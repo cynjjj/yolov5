@@ -1,0 +1,5 @@
+[default]
+entity = cyn1234
+project = nbut
+base_url = https://api.wandb.ai
+
